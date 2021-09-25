@@ -34,3 +34,9 @@
 - Next.js
 - Node.js
 - MongoDB
+
+---
+
+## Project URL
+
+https://meetup-manager.vercel.app/
